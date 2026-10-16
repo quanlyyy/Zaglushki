@@ -1,0 +1,7 @@
+Assets/DreamForestTree/Materials/ClearSky.psd filter=lfs diff=lfs merge=lfs -text
+Assets/DreamForestTree/_HDRP[[:space:]]patch/DreamTreesHDRP.unitypackage filter=lfs diff=lfs merge=lfs -text
+Assets/DreamForestTree/_URP[[:space:]]patch/DreamTreesURP.unitypackage filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/DotsMetallListTopRFSSeparete.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/lestnica.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/RFS-5000-01.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Prefabs/Stairs001.fbx filter=lfs diff=lfs merge=lfs -text
